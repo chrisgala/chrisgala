@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **chrisgala13@gmail.com**
+- 📫 How to reach me -> **chrisgala13@gmail.com**
 
-- ⚡ Fun fact **I'm super into 3D printing and painting post-processing**
+- ⚡ Fun fact **I'm super into 3D printing, painting and post-processing the models I print**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
