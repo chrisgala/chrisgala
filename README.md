@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at **Epignosis LLC**
 
-- 🌱 I’m currently learning **Python, Flask, Docker**
+- 🌱 I’m currently learning **In depth AWS Services**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Serverless, lambdas, API Gateway, Step Functions**
 
 - 📫 How to reach me -> **chrisgala13@gmail.com**
 
